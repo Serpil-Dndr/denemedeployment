@@ -1,0 +1,9 @@
+### Test: Get All Orders
+GET https://management-service-aecnh9duhedfeadw.canadacentral-01.azurewebsites.net/orders
+Content-Type: application/json
+
+### This request retrieves all orders currently managed by the management service.
+
+
+
+
